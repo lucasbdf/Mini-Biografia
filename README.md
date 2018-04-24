@@ -7,4 +7,4 @@ _Engenharia de Software 2018/1_
 
 _Desenvolvimento Web - Walison Moreira_
 
-_ Mini-Biograifa criada para a prática de HTML e CSS.
+_Mini-Biograifa criada para a prática de HTML e CSS._
